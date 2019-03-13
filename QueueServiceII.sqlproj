@@ -81,4 +81,7 @@
     <Build Include="dbo\Sequences\MessageTypeNbrs.sql" />
     <Build Include="dbo\Sequences\SubscriptionTypeNbrs.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="QueueServiceII.refactorlog" />
+  </ItemGroup>
 </Project>
